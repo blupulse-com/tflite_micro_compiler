@@ -9,6 +9,16 @@ kernel at run time.
 
 An in depth explanation of the motivation and benefits is included in the matching [RFC](https://docs.google.com/document/d/1wDqC50sjCaWyQxsSn_Y-XAGh8-ozIgm2HDzX_b9DIyo/edit?usp=sharing).
 
+# Quick build
+
+To build the compiler, run:
+
+``` bash
+chmod +x build_compiler.sh
+sh build_compiler.sh
+```
+then read the "usage" section to see how to use this.
+Alternatively, for more details on how to build, read the "building" section
 # Building
 
 ## CMake
